@@ -1,0 +1,21 @@
+.changeStyleHeader{
+    background-color: blue;
+    text-align: center;
+}
+
+.changeStyleMain{
+    background-color: rgb(49, 226, 43);
+}
+
+.changeStyleFooter{
+    background-color: #67a819;
+}
+
+.fotoDog{
+    width: 30%;
+    
+}
+
+.boxImgDog{
+    text-align: center;
+}
